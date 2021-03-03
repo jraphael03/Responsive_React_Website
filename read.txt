@@ -1,0 +1,23 @@
+INSTALLED IN THIS PROJECT ***
+
+CLIENT
+npx create-react-app frontend          *** as client
+npm install react-router-dom
+
+
+SERVER
+npm init -y         ***
+npm install express ***
+npm body-parser
+npm install mysql
+npm install nodemon ***
+npm install cors
+npm install express-promise-router
+npm install uuid
+npm install bcrypt
+npm install express-session
+npm install body-parser
+npm install cookie-parser
+
+
+
